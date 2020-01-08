@@ -39,8 +39,10 @@ Java虚拟机（第1版）》这本书，读了两遍感觉苦涩难懂，那本
 
 ---------------------------------------------------------------------------
 &emsp; 最后送同行二句话作为共勉：
-&emsp; “Talk is cheap, Show me the Code.”。
-&emsp; “You build it, You run it.”。
+
+&emsp; “Talk is cheap, Show me the Code.”
+
+&emsp; “You build it, You run it.”
                                                                                     
                                                                                     
                                                                                     郭 涛
